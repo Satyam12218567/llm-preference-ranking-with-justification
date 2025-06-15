@@ -79,5 +79,4 @@ LLM Trainer | AI Evaluator
 - Annotator at Outlier (Scale AI)  
 - Contributor to OpenAI’s internal training via Feather  
 - Experienced in STEM-focused LLM evaluation  
-- Email: [your.email@example.com]  
-- GitHub: [github.com/yourusername]
+- Email: rsatyam950@gmail.com
